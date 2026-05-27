@@ -1,0 +1,8 @@
+C:\Users\bychkov\source\repos\IT_regular_2\IT_regular_2\bin\Debug\IT_regular_2.exe.config
+C:\Users\bychkov\source\repos\IT_regular_2\IT_regular_2\bin\Debug\IT_regular_2.exe
+C:\Users\bychkov\source\repos\IT_regular_2\IT_regular_2\bin\Debug\IT_regular_2.pdb
+C:\Users\bychkov\source\repos\IT_regular_2\IT_regular_2\obj\Debug\IT_regular_2.csproj.AssemblyReference.cache
+C:\Users\bychkov\source\repos\IT_regular_2\IT_regular_2\obj\Debug\IT_regular_2.csproj.CoreCompileInputs.cache
+C:\Users\bychkov\source\repos\IT_regular_2\IT_regular_2\obj\Debug\IT_regular_2.exe
+C:\Users\bychkov\source\repos\IT_regular_2\IT_regular_2\obj\Debug\IT_regular_2.pdb
+C:\Users\bychkov\source\repos\IT_regular_2\IT_regular_2\obj\Debug\IT_regular_2.exe.config
